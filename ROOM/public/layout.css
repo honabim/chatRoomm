@@ -1,0 +1,4 @@
+body{background-color: pink}
+#left{width:20%; float: left; border: solid 1px yellow}
+#right{with:80%; float: right}
+#roomHienTai{background-color: gray; width: 300px; float: right; color: white}
